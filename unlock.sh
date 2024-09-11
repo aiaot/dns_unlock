@@ -74,6 +74,7 @@ interface=*
 address=/bilibili.com/$1
 address=/akadns.net/$1
 address=/akam.net/$1
+address=/whatismyip.akamai.com/23.48.214.131
 address=/akamai.com/$1
 address=/akamai.net/$1
 address=/akamaiedge.net/$1
